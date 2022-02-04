@@ -9,8 +9,8 @@ Data analytics is the collection, transformation, and organization of data in or
 ---
 ## Courses in this Professional Certificate
 
-##### 1. [Foundations: Data, Data, Everywhere](https://www.coursera.org/learn/foundations-data?specialization=google-data-analytics)
-- []
+##### 1. Foundations: Data, Data, Everywhere
+- [Week 1]()
 - []
 - []
 ##### 2. [Ask Questions to Make Data-Driven Decisions](https://www.coursera.org/learn/ask-questions-make-decisions?specialization=google-data-analytics)

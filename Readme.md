@@ -14,7 +14,7 @@ Data analytics is the collection, transformation, and organization of data in or
   - [Get Started](https://github.com/jinyu11/Google-Data-Analytics-Professional-Certificate/wiki/1-1-1.Get-Started)
   - [Transforming Data into Insights](https://github.com/jinyu11/Google-Data-Analytics-Professional-Certificate/wiki/1-1-2.Transforming-Data-into-Insights)
   - [Understanding the Data Ecosystem](https://github.com/jinyu11/Google-Data-Analytics-Professional-Certificate/wiki/1-1-3.Understanding-the-Data-Ecosystem)
-  - [Weekly Challenge](https://github.com/jinyu11/Google-Data-Analytics-Professional-Certificate/wiki/1-1-4.Weekly-Challenge) 
+  - [Weekly Challenge](https://github.com/jinyu11/Google-Data-Analytics-Professional-Certificate/wiki/1-1.Weekly-Challenge) 
 - [Week 2 - All about analytical thinking](https://github.com/jinyu11/Google-Data-Analytics-Professional-Certificate/wiki/1-2.All-about-analytical-thinking)
   - [Embrace your data analyst skills](https://github.com/jinyu11/Google-Data-Analytics-Professional-Certificate/wiki/1-2-1.Embrace-your-data-analyst-skills)
 - [Week 3 - The wonderful world of data]()

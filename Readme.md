@@ -1,5 +1,12 @@
 # [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics)
 ---
+Data analytics is the collection, transformation, and organization of data in order to draw conclusions, make predictions, and drive informed decision making.
+
+**Skills you’ll gain will include:** Data cleaning, problem solving, critical thinking, data ethics, and data visualization
+
+**Platforms and tools you will learn include:** Presentations, Spreadsheets, SQL, Tableau, and R Programming
+
+---
 ## Courses in this Professional Certificate
 1. Foundations: Data, Data, Everywhere
 2. Ask Questions to Make Data-Driven Decisions
